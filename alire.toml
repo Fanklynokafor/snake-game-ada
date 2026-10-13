@@ -1,0 +1,12 @@
+name = "snake_project"
+description = "A simple Snake game written in Ada"
+version = "0.1.0-dev"
+
+authors = ["Franklyn O.I"]
+maintainers = ["Franklyn O.I <franklynokafor4@protonmail.ch>"]
+maintainers-logins = ["Fanklynokafor"]
+licenses = "MIT"
+website = ""
+tags = ["ada", "snake-game", "beginner", "terminal-game"]
+
+executables = ["snake_project"]

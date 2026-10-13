@@ -1,0 +1,11 @@
+# Ada build artifacts
+*.o
+*.ali
+
+# Alire build output
+obj/
+bin/
+alire/
+
+# macOS files
+.DS_Store
